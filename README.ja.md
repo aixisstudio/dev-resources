@@ -80,6 +80,44 @@ _詳細なコンテンツ（リスト・リンク・説明）は保守のため�
 | [devdocs.io](https://devdocs.io/) | All docs in one search |
 | [tldr](https://tldr.sh/) | man pages, but useful |
 
+## 🏗️ Architecture & System Design
+
+| Resource | Focus |
+|---|---|
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | The 290k★ classic |
+| [Architecture patterns](https://martinfowler.com/architecture/) | Fowler's canon |
+| [ByteByteGo](https://bytebytego.com/) | Visualized system design |
+| [microservices.io](https://microservices.io/) | Patterns for distributed systems |
+
+## 🧰 Daily-Use Tools
+
+| Resource | Focus |
+|---|---|
+| [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | OSS Postman alternative |
+| [bruno](https://github.com/usebruno/bruno) | Local-first API client |
+| [Insomnia](https://insomnia.rest/) | API debugging |
+| [GitLens](https://gitlens.amod.io/) | Supercharged git in VS Code |
+| [Fig](https://fig.io/) | Terminal autocomplete |
+| [Warp](https://www.warp.dev/) | Modern terminal |
+| [Sourcegraph](https://sourcegraph.com/) | Search all public code |
+
+## 📝 Career & Learning Extras
+
+| Resource | Focus |
+|---|---|
+| [roadmap.sh](https://roadmap.sh/) | Role-based learning roadmaps |
+| [Interviewing.io guides](https://interviewing.io/) | Real interview practice |
+| [NeetCode](https://neetcode.io/) | Curated problem lists |
+| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) | The 100k★ guide |
+
+## 🎁 Freebies for Devs
+
+| Resource | Focus |
+|---|---|
+| [free-for-dev](https://github.com/ripienaar/free-for-dev) | SaaS/PaaS/IaaS free tiers (140k★) |
+| [GitHub Student Pack](https://education.github.com/pack) | Free tools if you're a student |
+| [AWS free tier](https://aws.amazon.com/free/) | Cloud credits to learn on |
+
 ---
 ## 貢献
 
