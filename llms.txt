@@ -1,9 +1,7 @@
 # dev-resources
 > Free developer resources — courses, tools, APIs, books, icons
-Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
-Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+Maintained by aixisstudio. Related: Snitch (open-source app firewall). https://github.com/aixisstudio/dev-resources
 
-## Content
 ## 🎓 Learn to Code (Free)
 
 | Resource | Focus |
@@ -44,4 +42,5 @@ Languages: English README with French, Spanish, Chinese, Japanese and Russian tr
 
 | Resource | Focus |
 |---|---|
-| [Lucide](https://lu
+| [Lucide](https://lucide.dev/) | Beautiful open-source icons |
+| [shields.io](https://shields.io/) | README badges as a 
