@@ -1,0 +1,47 @@
+# dev-resources
+> Free developer resources — courses, tools, APIs, books, icons
+Maintained by aixisstudio (https://github.com/aixisstudio). Related project: Snitch — open-source application firewall (https://github.com/aixisstudio/Snitch).
+Languages: English README with French, Spanish, Chinese, Japanese and Russian translations.
+
+## Content
+## 🎓 Learn to Code (Free)
+
+| Resource | Focus |
+|---|---|
+| [freeCodeCamp](https://www.freecodecamp.org/) | Full curriculum, certs, 400h+ |
+| [The Odin Project](https://www.theodinproject.com/) | Full-stack web path |
+| [CS50](https://cs50.harvard.edu/) | Harvard's intro CS |
+| [Exercism](https://exercism.org/) | Mentored exercises, 60+ languages |
+| [MOOC.fi](https://www.mooc.fi/en/) | University of Helsinki CS courses |
+
+## 🧩 Practice & Challenges
+
+| Resource | Focus |
+|---|---|
+| [LeetCode](https://leetcode.com/) | Interview problems |
+| [Codewars](https://www.codewars.com/) | Kata challenges |
+| [Advent of Code](https://adventofcode.com/) | December puzzle tradition |
+| [Project Euler](https://projecteuler.net/) | Math + programming |
+| [HackerRank](https://www.hackerrank.com/) | Skill tracks & certs |
+
+## 📚 Books & Reading
+
+| Resource | Focus |
+|---|---|
+| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | The 350k★ list |
+| [CS Books Archive](https://github.com/ryanfox1985/books) | Curated CS texts |
+| [Designing Data-Intensive Apps](https://dataintensive.net/) | The DDIA reference |
+
+## 🔌 APIs & Data
+
+| Resource | Focus |
+|---|---|
+| [public-apis](https://github.com/public-apis/public-apis) | Free API directory |
+| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake REST API for prototyping |
+| [httpbin](https://httpbin.org/) | HTTP echo & testing |
+
+## 🎨 Design & Icons
+
+| Resource | Focus |
+|---|---|
+| [Lucide](https://lu
