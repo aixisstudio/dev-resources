@@ -4,119 +4,117 @@
 
 免费开发者资源 — 课程、工具、API、书籍、图标
 
-_详细内容（列表、链接、描述）以英文维护 — 以下章节为你指引。_
+# # # # # 学习代码( 免费)
 
-## 🎓 Learn to Code (Free)
-
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [freeCodeCamp](https://www.freecodecamp.org/) | Full curriculum, certs, 400h+ |
-| [The Odin Project](https://www.theodinproject.com/) | Full-stack web path |
-| [CS50](https://cs50.harvard.edu/) | Harvard's intro CS |
-| [Exercism](https://exercism.org/) | Mentored exercises, 60+ languages |
-| [MOOC.fi](https://www.mooc.fi/en/) | University of Helsinki CS courses |
+[免费CodeCamp](https://www.freecodecamp.org/) 完整课程,证书,400h+ |.
+[奥丁计划](https://www.theodinproject.com/) QQ全网路 腾讯网.
+[CS50] (https://cs50.harvard.edu/) 哈佛大学的入门CS .
+(https://exercism.org/) * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ** * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * ** * * ** * ** ** * * *
+赫尔辛基大学CS课程
 
-## 🧩 Practice & Challenges
+# # # # 练习与挑战
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [LeetCode](https://leetcode.com/) | Interview problems |
-| [Codewars](https://www.codewars.com/) | Kata challenges |
-| [Advent of Code](https://adventofcode.com/) | December puzzle tradition |
-| [Project Euler](https://projecteuler.net/) | Math + programming |
-| [HackerRank](https://www.hackerrank.com/) | Skill tracks & certs |
+[LeetCode] (https://leetcode.com/) 采访问题 |
+[守则] (https://www.codewars.com/) QQ 卡塔挑战 QQ
+[发明代码](https://adventofcode.com/) 12月的谜题传统 QQ
+(https://projecteuler.net/) 数学+编程
+[HackerRank](https://www.hackerrank.com/) 技能轨道和证书 |
 
-## 📚 Books & Reading
+□ □ □ 书籍和阅读
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | The 350k★ list |
-| [CS Books Archive](https://github.com/ryanfox1985/books) | Curated CS texts |
-| [Designing Data-Intensive Apps](https://dataintensive.net/) | The DDIA reference |
+[免费编程-书籍] (https://github.com/EbookFoundation/free-programming-books). 350k 列表 \\\\\\\\\\\\\\\\\ >
+[CS图书档案](https://github.com/ryanfox1985/books) | | 校对:Soup
+[设计数据强化Apps](https://dataintensive.net/) | DDIA参考 |.
 
-## 🔌 APIs & Data
+#### APIs和数据
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [public-apis](https://github.com/public-apis/public-apis) | Free API directory |
-| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake REST API for prototyping |
-| [httpbin](https://httpbin.org/) | HTTP echo & testing |
+[公共-apis](https://github.com/public-apis/public-apis) QQ自由API目录 QQ
+[JSONPLECHINE] (https://jsonplaceholder.typicode.com/) 假雷斯特API用于原型 QQ
+[httpbin](https://httpbin.org/) QQHTTP回声测试 & QQ
 
-## 🎨 Design & Icons
+# # # # 设计和图标
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [Lucide](https://lucide.dev/) | Beautiful open-source icons |
-| [shields.io](https://shields.io/) | README badges as a service |
-| [Carbon](https://carbon.now.sh/) | Gorgeous code screenshots |
-| [skill-icons](https://github.com/tandpfun/skill-icons) | Icon rows for profiles |
-| [Coolors](https://coolors.co/) | Palette generator |
+[Lucide](https://lucide.dev/)##################################################################################################################################################################################################################################################
+[屏障.io](https://shields.io/) 校对:Soup
+[Carbon](https://carbon.now.sh/) 美极了的代码截图[永久失效連結]
+(https://github.com/tandpfun/skill-icons) 配置图的图标行
+[冷 (https://coolors.co/) 调色器生成器 |
 
-## ☁️ Free Hosting Tiers
+# # # # 自由主机等级
 
-| Platform | Good for |
+\ 平台\ \ 不错\ \ \ \
 |---|---|
-| [GitHub Pages](https://pages.github.com/) | Static sites |
-| [Vercel](https://vercel.com/) | Frontend frameworks |
-| [Netlify](https://www.netlify.com/) | Jamstack + functions |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | Edge compute, generous free tier |
-| [Supabase](https://supabase.com/) | Postgres + auth + storage |
-| [Neon](https://neon.tech/) | Serverless Postgres |
+[GitHub Pages] (https://pages.github.com/) 静态网站 |
+[Vercel] (https://vercel.com/) | 前端框架 |
+[网 (https://www.netlify.com/) + Jamstack + 函数 + ]
+[云浮工人](https://workers.cloudflare.com/) ==================================================================================================================================================================================================================================================
+[Supabase](https://supabase.com/) + Postgres + auth + 存储 + |
+[Neon](https://neon.tech/) ==================================================================================================================================================================================================================================================
 
-## 📝 Docs & Writing
+□ {} 文档和写入
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) | Docs sites from Markdown |
-| [Obsidian](https://obsidian.md/) | Markdown knowledge base |
-| [Excalidraw](https://excalidraw.com/) | Sketch diagrams fast |
+校对:Soup
+[奥布西丁](https://obsidian.md/) Markdown知识库 |
+(https://excalidraw.com/) 快速的Sketch图
 
-## 🧰 Dev Utilities
+□□□□□□□
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [regex101](https://regex101.com/) | Regex build & debug |
-| [jq play](https://jqplay.org/) | Test jq filters online |
-| [devdocs.io](https://devdocs.io/) | All docs in one search |
-| [tldr](https://tldr.sh/) | man pages, but useful |
+[regex101](https://regex101.com/) | Regex 构建和调试 |
+[jq play] (https://jqplay.org/) |. 测试 Jq 在线过滤器QQQ
+[devdocs.io] (https://devdocs.io/)                                                                   一次搜索中的所有文件
+(https://tldr.sh/) 人页,但有用
 
-## 🏗️ Architecture & System Design
+#### 建筑和系统设计
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [System Design Primer](https://github.com/donnemartin/system-design-primer) | The 290k★ classic |
-| [Architecture patterns](https://martinfowler.com/architecture/) | Fowler's canon |
-| [ByteByteGo](https://bytebytego.com/) | Visualized system design |
-| [microservices.io](https://microservices.io/) | Patterns for distributed systems |
+[系统设计初级] (https://github.com/donnemartin/system-design-primer)  腾讯网. 290k 经典的
+[建筑图案] (https://martinfowler.com/architecture/) ^ Fowler的罐头 ^
+[ByteByteGo](https://bytebytego.com/) |可视化系统设计 |
+[微服务.io](https://microservices.io/) 分布式系统的图案.
 
-## 🧰 Daily-Use Tools
+# # # # 每日使用工具
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | OSS Postman alternative |
-| [bruno](https://github.com/usebruno/bruno) | Local-first API client |
-| [Insomnia](https://insomnia.rest/) | API debugging |
-| [GitLens](https://gitlens.amod.io/) | Supercharged git in VS Code |
-| [Fig](https://fig.io/) | Terminal autocomplete |
-| [Warp](https://www.warp.dev/) | Modern terminal |
-| [Sourcegraph](https://sourcegraph.com/) | Search all public code |
+[hoppscotch] (https://github.com/hoppscotch/hoppscotch) OSS Postman 替代品 |
+[bruno] (https://github.com/usebruno/bruno) QQ本地第一API客户端 QQ
+[失眠](https://insomnia.rest/) API调试 腾讯网.
+[吉特伦斯](https://gitlens.amod.io/)在VS代码中超充值的git QQ
+[Fig](https://fig.io/) 终极自动完成...
+[WARP](https://www.warp.dev/) 现代终端.
+QQ[來源請求](https://sourcegraph.com/) 搜索所有公共代码QQ.
 
-## 📝 Career & Learning Extras
+□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [roadmap.sh](https://roadmap.sh/) | Role-based learning roadmaps |
-| [Interviewing.io guides](https://interviewing.io/) | Real interview practice |
-| [NeetCode](https://neetcode.io/) | Curated problem lists |
-| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) | The 100k★ guide |
+[roadmap.sh] (https://roadmap.sh/) |基于角色的学习路线图 |
+[interview.io 向导](https://interviewing.io/) 真实的采访实践 |.
+[NeetCode](https://neetcode.io/) QQ解析问题列表 QQ
+[技术访谈手册] (https://github.com/yangshun/tech-interview-handbook). 100k★指南
 
-## 🎁 Freebies for Devs
+####为德夫自由人#
 
-| Resource | Focus |
+* 资源* * 焦点*
 |---|---|
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | SaaS/PaaS/IaaS free tiers (140k★) |
-| [GitHub Student Pack](https://education.github.com/pack) | Free tools if you're a student |
-| [AWS free tier](https://aws.amazon.com/free/) | Cloud credits to learn on |
+                                                                     
+[GitHub Student Pack](https://education.github.com/pack) 如果你是学生的话 免费工具...
+[AWS免费等级] (https://aws.amazon.com/free/) \\ \ \ \ 云学分
 
 ---
 ## 贡献
