@@ -4,119 +4,117 @@
 
 Бесплатные ресурсы для разработчиков — курсы, инструменты, API, книги, иконки
 
-_Подробное содержимое (списки, ссылки, описания) ведётся на английском — разделы ниже помогут сориентироваться._
+## ) Учитесь кодировать (бесплатно)
 
-## 🎓 Learn to Code (Free)
-
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [freeCodeCamp](https://www.freecodecamp.org/) | Full curriculum, certs, 400h+ |
-| [The Odin Project](https://www.theodinproject.com/) | Full-stack web path |
-| [CS50](https://cs50.harvard.edu/) | Harvard's intro CS |
-| [Exercism](https://exercism.org/) | Mentored exercises, 60+ languages |
-| [MOOC.fi](https://www.mooc.fi/en/) | University of Helsinki CS courses |
+| [freeCodeCamp] (https://www.freecodecamp.org/) | Полная учебная программа, сертификаты, 400h + |
+[Проект Один] (https://www.theodinproject.com/) | Полный стек веб-траектории
+[CS50] (https://cs50.harvard.edu/) | Введение Гарварда CS |
+[Упражнения] (https://exercism.org/) | Наставнические упражнения, 60+ языков
+| [MOOC.fi] (https://www.mooc.fi/en/) | Курсы Хельсинкского университета
 
-## 🧩 Practice & Challenges
+###Практика и вызовы
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [LeetCode](https://leetcode.com/) | Interview problems |
-| [Codewars](https://www.codewars.com/) | Kata challenges |
-| [Advent of Code](https://adventofcode.com/) | December puzzle tradition |
-| [Project Euler](https://projecteuler.net/) | Math + programming |
-| [HackerRank](https://www.hackerrank.com/) | Skill tracks & certs |
+[LeetCode] (https://leetcode.com/) | Проблемы с интервью
+[Codewars] [https://www.codewars.com/] | Ката вызовы
+[Пришествие Кода] (https://adventofcode.com/) | Декабрьская традиция головоломок
+[Проект Эйлер] (https://projecteuler.net/) | Математика + программирование
+[HackerRank] (https://www.hackerrank.com/) | Треки навыков и сертификаты |
 
-## 📚 Books & Reading
+### Книги и чтение
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | The 350k★ list |
-| [CS Books Archive](https://github.com/ryanfox1985/books) | Curated CS texts |
-| [Designing Data-Intensive Apps](https://dataintensive.net/) | The DDIA reference |
+[Бесплатные книги] (https://github.com/EbookFoundation/free-programming-books) Список 350k★
+[CS Books Archive] (https://github.com/ryanfox1985/books) | Кураторские CS-тексты
+[Проектирование приложений с интенсивным использованием данных] (https://dataintensive.net/) | Ссылка на DDIA
 
-## 🔌 APIs & Data
+## API и данные
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [public-apis](https://github.com/public-apis/public-apis) | Free API directory |
-| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake REST API for prototyping |
-| [httpbin](https://httpbin.org/) | HTTP echo & testing |
+| [public-apis] (https://github.com/public-apis/public-apis) | Бесплатный каталог API |
+[JSONPlaceholder] (https://jsonplaceholder.typicode.com/) Фальшивый API REST для прототипирования
+[httpbin] (https://httpbin.org/) | HTTP echo & testing |
 
-## 🎨 Design & Icons
+## Дизайн и иконки
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [Lucide](https://lucide.dev/) | Beautiful open-source icons |
-| [shields.io](https://shields.io/) | README badges as a service |
-| [Carbon](https://carbon.now.sh/) | Gorgeous code screenshots |
-| [skill-icons](https://github.com/tandpfun/skill-icons) | Icon rows for profiles |
-| [Coolors](https://coolors.co/) | Palette generator |
+[Lucide] (https://lucide.dev/) | Красивые иконки с открытым исходным кодом
+| [shields.io] (https://shields.io/) | ЧИТАТЬ значки как услуга |
+[Углерод] (https://carbon.now.sh/) | Великолепные скриншоты кода |
+| [skill-icons] (https://github.com/tandpfun/skill-icons) | Иконки для профилей |
+[Охлаждение] (https://coolors.co/) | Генератор палитры |
 
-## ☁️ Free Hosting Tiers
+##  ️ Бесплатный хостинг
 
-| Platform | Good for |
+[Платформа] Хорошо для
 |---|---|
-| [GitHub Pages](https://pages.github.com/) | Static sites |
-| [Vercel](https://vercel.com/) | Frontend frameworks |
-| [Netlify](https://www.netlify.com/) | Jamstack + functions |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | Edge compute, generous free tier |
+[GitHub Страницы] (https://pages.github.com/) | Статические сайты
+[Vercel] (https://vercel.com/) | Фронтальные фреймворки
+| [Netlify](https://www.netlify.com/) | Jamstack + функции |
+[Cloudflare Workers] (https://workers.cloudflare.com/) | Вычисление края, щедрый бесплатный уровень |
 | [Supabase](https://supabase.com/) | Postgres + auth + storage |
-| [Neon](https://neon.tech/) | Serverless Postgres |
+[Neon] (https://neon.tech/) | Безсерверные Postgres
 
-## 📝 Docs & Writing
+##   Документы и письменность
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) | Docs sites from Markdown |
-| [Obsidian](https://obsidian.md/) | Markdown knowledge base |
-| [Excalidraw](https://excalidraw.com/) | Sketch diagrams fast |
+| [Материал MkDocs] (https://squidfunk.github.io/mkdocs-material/) | Документы с сайта Markdown |
+[Obsidian] (https://obsidian.md/) | База знаний Markdown
+| [Excalidraw] (https://excalidraw.com/) | Наброски диаграмм быстро |
 
-## 🧰 Dev Utilities
+###Услуги
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [regex101](https://regex101.com/) | Regex build & debug |
-| [jq play](https://jqplay.org/) | Test jq filters online |
-| [devdocs.io](https://devdocs.io/) | All docs in one search |
-| [tldr](https://tldr.sh/) | man pages, but useful |
+| [regex101] (https://regex101.com/) | Regex build & debug |
+[jq play] [https://jqplay.org/] Тест jq фильтров онлайн
+[devdocs.io] (https://devdocs.io/) Все документы в одном поиске
+[tldr] (https://tldr.sh/) | человек страницы, но полезно
 
-## 🏗️ Architecture & System Design
+##  ️ Архитектура и системный дизайн
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [System Design Primer](https://github.com/donnemartin/system-design-primer) | The 290k★ classic |
-| [Architecture patterns](https://martinfowler.com/architecture/) | Fowler's canon |
-| [ByteByteGo](https://bytebytego.com/) | Visualized system design |
-| [microservices.io](https://microservices.io/) | Patterns for distributed systems |
+[System Design Primer] (https://github.com/donnemartin/system-design-primer) Классика 290k★
+[Архитектурные шаблоны] (https://martinfowler.com/architecture/) | Канон Фаулера |
+[ByteByteGo] (https://bytebytego.com/) | Визуализированный дизайн системы
+| [microservices.io] (https://microservices.io/) | Паттерны для распределенных систем |
 
-## 🧰 Daily-Use Tools
+## s Инструменты повседневного использования
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | OSS Postman alternative |
-| [bruno](https://github.com/usebruno/bruno) | Local-first API client |
-| [Insomnia](https://insomnia.rest/) | API debugging |
-| [GitLens](https://gitlens.amod.io/) | Supercharged git in VS Code |
-| [Fig](https://fig.io/) | Terminal autocomplete |
-| [Warp](https://www.warp.dev/) | Modern terminal |
-| [Sourcegraph](https://sourcegraph.com/) | Search all public code |
+[Hoppscotch] (https://github.com/hoppscotch/hoppscotch) | Альтернатива OSS Postman
+| [bruno](https://github.com/usebruno/bruno) | Клиент локального API |
+[Бессонница] (https://insomnia.rest/) | отладка API |
+| [GitLens](https://gitlens.amod.io/) | Заряженный git в VS Code |
+| [фиг] (https://fig.io/) | Автозаполнение терминала |
+[Варп] (https://www.warp.dev/) | Современный терминал
+| [Источник] (https://sourcegraph.com/) | Поиск всего кода
 
-## 📝 Career & Learning Extras
+##   Карьера и обучение
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [roadmap.sh](https://roadmap.sh/) | Role-based learning roadmaps |
-| [Interviewing.io guides](https://interviewing.io/) | Real interview practice |
-| [NeetCode](https://neetcode.io/) | Curated problem lists |
-| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) | The 100k★ guide |
+[roadmap.sh] (https://roadmap.sh/) | Ролевые обучающие дорожные карты
+[Interviewing.io guides] (https://interviewing.io/) | Реальная практика интервью
+[NeetCode] (https://neetcode.io/) | Списки проблем
+[Tech Interview Handbook] (https://github.com/yangshun/tech-interview-handbook) Руководство 100k★
 
-## 🎁 Freebies for Devs
+## Freebies для Devs
 
-| Resource | Focus |
+Источник: Focus
 |---|---|
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | SaaS/PaaS/IaaS free tiers (140k★) |
-| [GitHub Student Pack](https://education.github.com/pack) | Free tools if you're a student |
-| [AWS free tier](https://aws.amazon.com/free/) | Cloud credits to learn on |
+[free-for-dev] (https://github.com/ripienaar/free-for-dev) | Бесплатные уровни SaaS/PaaS/IaaS (140k★)
+[GitHub Student Pack] (https://education.github.com/pack) | Бесплатные инструменты, если вы студент
+[AWS free tier] (https://aws.amazon.com/free/) | Облачные кредиты для обучения на |
 
 ---
 ## Участие
