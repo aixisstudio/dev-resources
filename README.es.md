@@ -4,119 +4,117 @@
 
 Recursos gratis para devs — cursos, herramientas, APIs, libros, iconos
 
-_El contenido detallado (listas, enlaces, descripciones) está en inglés por mantenibilidad — las secciones siguientes te guían._
+## Фанте a Code (Free)
 
-## 🎓 Learn to Code (Free)
-
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [freeCodeCamp](https://www.freecodecamp.org/) | Full curriculum, certs, 400h+ |
-| [The Odin Project](https://www.theodinproject.com/) | Full-stack web path |
-| [CS50](https://cs50.harvard.edu/) | Harvard's intro CS |
-| [Exercism](https://exercism.org/) | Mentored exercises, 60+ languages |
-| [MOOC.fi](https://www.mooc.fi/en/) | University of Helsinki CS courses |
+Silencio [freeCodeCamp] (https://www.freecodecamp.org/)
+[The Odin Project] (https://www.theodinproject.com/) TENIDO Sendero web de establo completo
+[CS50] (https://cs50.harvard.edu/)
+Silencio [Exercism] (https://exercism.org/)
+Silencio [MOOC.fi] (https://www.mooc.fi/en/)
 
-## 🧩 Practice & Challenges
+## 🧩 Practice &gt; Challenges
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [LeetCode](https://leetcode.com/) | Interview problems |
-| [Codewars](https://www.codewars.com/) | Kata challenges |
-| [Advent of Code](https://adventofcode.com/) | December puzzle tradition |
-| [Project Euler](https://projecteuler.net/) | Math + programming |
-| [HackerRank](https://www.hackerrank.com/) | Skill tracks & certs |
+Silencio [LeetCode] (https://leetcode.com/)
+Silencio [Codewars] (https://www.codewars.com/)
+Silencio [Advención del Código] (https://adventofcode.com/)
+Silencio [Proyecto Euler] (https://projecteuler.net/)
+[HackerRank] (https://www.hackerrank.com/) Silencio Temas de Habilidad &quot; certificaciones
 
-## 📚 Books & Reading
+## 📚 Libros &gt; lectura
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [free-programming-books](https://github.com/EbookFoundation/free-programming-books) | The 350k★ list |
-| [CS Books Archive](https://github.com/ryanfox1985/books) | Curated CS texts |
-| [Designing Data-Intensive Apps](https://dataintensive.net/) | The DDIA reference |
+[libros de programación gratuita] (https://github.com/EbookFoundation/free-programming-books) La lista de 350k★
+Silencio [CS Books Archive] (https://github.com/ryanfox1985/books)
+Silencio [Designing Data-Intensive Apps] (https://dataintensive.net/)
 
-## 🔌 APIs & Data
+## 🔌 APIs &gt; Data
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [public-apis](https://github.com/public-apis/public-apis) | Free API directory |
-| [JSONPlaceholder](https://jsonplaceholder.typicode.com/) | Fake REST API for prototyping |
-| [httpbin](https://httpbin.org/) | HTTP echo & testing |
+Silencio [public-apis] (https://github.com/public-apis/public-apis)
+Silencio [JSONPlaceholder] (https://jsonplaceholder.typicode.com/)
+confidencialidad [httpbin](https://httpbin.org/)
 
-## 🎨 Design & Icons
+## ⋅ Design &amp; Icons
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [Lucide](https://lucide.dev/) | Beautiful open-source icons |
-| [shields.io](https://shields.io/) | README badges as a service |
-| [Carbon](https://carbon.now.sh/) | Gorgeous code screenshots |
-| [skill-icons](https://github.com/tandpfun/skill-icons) | Icon rows for profiles |
-| [Coolors](https://coolors.co/) | Palette generator |
+Silencio [Lucide] (https://lucide.dev/)
+Silencio [shields.io] (https://shields.io/)
+Silencio [Carbon](https://carbon.now.sh/)
+Silencio [skill-icons] (https://github.com/tandpfun/skill-icons)
+[Coolors] (https://coolors.co/)
 
-## ☁️ Free Hosting Tiers
+## ☁ف Free Hosting Tiers
 
-| Platform | Good for |
+← Plataforma Silencio bueno para la vida
 |---|---|
-| [GitHub Pages](https://pages.github.com/) | Static sites |
-| [Vercel](https://vercel.com/) | Frontend frameworks |
-| [Netlify](https://www.netlify.com/) | Jamstack + functions |
-| [Cloudflare Workers](https://workers.cloudflare.com/) | Edge compute, generous free tier |
-| [Supabase](https://supabase.com/) | Postgres + auth + storage |
-| [Neon](https://neon.tech/) | Serverless Postgres |
+[GitHub Pages] (https://pages.github.com/)
+[Vercel] (https://vercel.com/)
+Silencio [Netlify] (https://www.netlify.com/) Silencio Jamstack + funciones
+(https://workers.cloudflare.com/)
+Silencio [Supabase] (https://supabase.com/) Silencio Postgres + auth + almacenamiento
+[Neon] (https://neon.tech/)
 
-## 📝 Docs & Writing
+## 📝 Docs &gt; Escritura
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [MkDocs Material](https://squidfunk.github.io/mkdocs-material/) | Docs sites from Markdown |
-| [Obsidian](https://obsidian.md/) | Markdown knowledge base |
-| [Excalidraw](https://excalidraw.com/) | Sketch diagrams fast |
+[MkDocs Material] (https://squidfunk.github.io/mkdocs-material/)
+Silencio [Obsidian] (https://obsidian.md/)
+[Excalidraw] (https://excalidraw.com/) TENIDO Sketch diagramas rápido TEN
 
 ## 🧰 Dev Utilities
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [regex101](https://regex101.com/) | Regex build & debug |
-| [jq play](https://jqplay.org/) | Test jq filters online |
-| [devdocs.io](https://devdocs.io/) | All docs in one search |
-| [tldr](https://tldr.sh/) | man pages, but useful |
+Silencio [regex101](https://regex101.com/)
+[jq play] (https://jqplay.org/) Filtros de prueba jq en línea
+[devdocs.io] (https://devdocs.io/) Todos los documentos en una búsqueda
+[tldr] (https://tldr.sh/) Silencioso páginas del hombre, pero útil
 
-## 🏗️ Architecture & System Design
+## 🏗♥ Arquitectura &amp; Diseño del Sistema
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [System Design Primer](https://github.com/donnemartin/system-design-primer) | The 290k★ classic |
-| [Architecture patterns](https://martinfowler.com/architecture/) | Fowler's canon |
-| [ByteByteGo](https://bytebytego.com/) | Visualized system design |
-| [microservices.io](https://microservices.io/) | Patterns for distributed systems |
+[System Design Primer] (https://github.com/donnemartin/system-design-primer) El clásico de 290k★
+[Padres de arquitectura] (https://martinfowler.com/architecture/)
+Silencio [ByteByteGo] (https://bytebytego.com/)
+Silencio [microservices.io] (https://microservices.io/)
 
-## 🧰 Daily-Use Tools
+## 🧰 Herramientas de uso diario
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [Hoppscotch](https://github.com/hoppscotch/hoppscotch) | OSS Postman alternative |
-| [bruno](https://github.com/usebruno/bruno) | Local-first API client |
-| [Insomnia](https://insomnia.rest/) | API debugging |
-| [GitLens](https://gitlens.amod.io/) | Supercharged git in VS Code |
-| [Fig](https://fig.io/) | Terminal autocomplete |
-| [Warp](https://www.warp.dev/) | Modern terminal |
-| [Sourcegraph](https://sourcegraph.com/) | Search all public code |
+Silencio [Hoppscotch] (https://github.com/hoppscotch/hoppscotch)
+Silencio [bruno] (https://github.com/usebruno/bruno)
+confidencialidad [Insomnia](https://insomnia.rest/)
+Silencio [GitLens] (https://gitlens.amod.io/)
+[Fig] (https://fig.io/)
+[Warp] (https://www.warp.dev/)
+Silencio [Sourcegraph] (https://sourcegraph.com/) Silencio Buscar todo el código público ←
 
-## 📝 Career & Learning Extras
+## 📝 Career &quot; Learning Extras
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [roadmap.sh](https://roadmap.sh/) | Role-based learning roadmaps |
-| [Interviewing.io guides](https://interviewing.io/) | Real interview practice |
-| [NeetCode](https://neetcode.io/) | Curated problem lists |
-| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook) | The 100k★ guide |
+Silencio [roadmap.sh] (https://roadmap.sh/)
+[Interviewing.io guides] (https://interviewing.io/)
+Silencio [NeetCode] (https://neetcode.io/)
+[Tech Interview Handbook] (https://github.com/yangshun/tech-interview-handbook) La guía de 100k★
 
 ## 🎁 Freebies for Devs
 
-| Resource | Focus |
+← Recursos Silencio
 |---|---|
-| [free-for-dev](https://github.com/ripienaar/free-for-dev) | SaaS/PaaS/IaaS free tiers (140k★) |
-| [GitHub Student Pack](https://education.github.com/pack) | Free tools if you're a student |
-| [AWS free tier](https://aws.amazon.com/free/) | Cloud credits to learn on |
+Silencio [gratuito para el desarrollo] (https://github.com/ripienaar/free-for-dev)
+Silencio [GitHub Student Pack] (https://education.github.com/pack)
+Silencio [AWS free tier] (https://aws.amazon.com/free/)
 
 ---
 ## Contribuir
