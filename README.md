@@ -73,6 +73,7 @@ Free developer resources — courses, tools, APIs, books, icons
 
 | Resource | Focus |
 |---|---|
+| [BestJSON](https://bestjson.com/) | Format, validate, repair, compare and query JSON locally in the browser; free, no account required |
 | [regex101](https://regex101.com/) | Regex build & debug |
 | [jq play](https://jqplay.org/) | Test jq filters online |
 | [devdocs.io](https://devdocs.io/) | All docs in one search |
