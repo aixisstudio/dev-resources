@@ -49,6 +49,7 @@ Free developer resources — courses, tools, APIs, books, icons
 | [Carbon](https://carbon.now.sh/) | Gorgeous code screenshots |
 | [skill-icons](https://github.com/tandpfun/skill-icons) | Icon rows for profiles |
 | [Coolors](https://coolors.co/) | Palette generator |
+| [Kite](https://kite.new/) | AI design tool your agents and team share (free plan) |
 
 ## ☁️ Free Hosting Tiers
 
