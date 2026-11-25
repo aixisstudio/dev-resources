@@ -117,7 +117,7 @@ Free developer resources — courses, tools, APIs, books, icons
 | [AWS free tier](https://aws.amazon.com/free/) | Cloud credits to learn on |
 
 ---
-Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Snitch](https://github.com/aixisstudio/Snitch), the open-source application firewall.
+Maintained by [aixisstudio](https://github.com/aixisstudio) — author of [Wiretap](https://github.com/aixisstudio/Wiretap), the open-source application firewall.
 
 ## License
 
